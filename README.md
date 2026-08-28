@@ -1,2 +1,4 @@
 # band-structure
 "Band Structure" is an educational simulation in HTML5, by PhET Interactive Simulations.
+
+Thank you for your patience while we restructure our library to better sustain the PhET project.”
